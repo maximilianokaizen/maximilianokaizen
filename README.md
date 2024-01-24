@@ -1,7 +1,5 @@
 # Hi, there 👋
 
-## Languages && Tools
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -14,13 +12,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-## GitHub Numbers
-
-[![Estadísticas de GitHub de Max](https://github-readme-stats.vercel.app/api?username=[tu nombre de usuario en GitHub]&show_icons=true)](https://github.com/maximilianokaizen])
-
-[//]: # (Puedes personalizar tus estadísticas de GitHub en https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me
 
-- [LinkedIn]b https://www.linkedin.com/in/maximiliano-rossi-145b41b/
+https://www.linkedin.com/in/maximiliano-rossi-145b41b/
 
