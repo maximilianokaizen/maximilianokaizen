@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi, there 👋
 
-## Languages & Tools:
+## Languages && Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -11,4 +11,16 @@
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+## GitHub Numbers
+
+[![Estadísticas de GitHub de Max](https://github-readme-stats.vercel.app/api?username=[tu nombre de usuario en GitHub]&show_icons=true)](https://github.com/maximilianokaizen])
+
+[//]: # (Puedes personalizar tus estadísticas de GitHub en https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with me
+
+- [LinkedIn]b https://www.linkedin.com/in/maximiliano-rossi-145b41b/
+
